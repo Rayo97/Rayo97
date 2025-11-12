@@ -24,6 +24,6 @@
 <a href="https://www.linkedin.com/in/ray-martinez-compean/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"  href="https://www.linkedin.com/in/l33pif" /> 
 </a>
-<a href="martinezcompeanr97@gmail.com" target="_blank">
+<a href="mailto:martinezcompeanr97@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
