@@ -1,7 +1,10 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Ray+Martinez;Data+Analyst+and+Developer;Welcome+"></a>
 </p>
+I’m Ray Luis Martínez Compeán, a developer and data analyst with experience in banking and business environments.
+In this repository, you’ll find projects focused on data analysis, report automation, and COBOL development.
 
+Data Analyst Projects: data cleaning, transformation, and visualization using Python, Pandas, Power BI, and SQL.
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <br>
@@ -27,3 +30,11 @@
 <a href="mailto:martinezcompeanr97@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+##
+
+- Phone: (+52) 55 4080 4793
+- Gmail: martinezcompeanr97@gmail.com
+- LinkedIn: www.linkedin.com/in/ray-martinez-compean/
+
+Last Edited on: 12/11/2025
