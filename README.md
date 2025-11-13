@@ -1,7 +1,9 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Ray+Martinez;Data+Analyst+and+Developer;Welcome+"></a>
 </p>
-I’m Ray Luis Martínez Compeán, a developer and data analyst with experience in banking and business environments.
+
+**I’m Ray Martínez,**
+a developer and data analyst with experience in banking and business environments.
 In this repository, you’ll find projects focused on data analysis, report automation, and COBOL development.
 
 Data Analyst Projects: data cleaning, transformation, and visualization using Python, Pandas, Power BI, and SQL.
